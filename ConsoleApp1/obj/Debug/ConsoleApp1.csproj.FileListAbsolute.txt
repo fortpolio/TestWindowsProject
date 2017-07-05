@@ -1,0 +1,6 @@
+J:\Visual Studio Online\MyFirstProject\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+J:\Visual Studio Online\MyFirstProject\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+J:\Visual Studio Online\MyFirstProject\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+J:\Visual Studio Online\MyFirstProject\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+J:\Visual Studio Online\MyFirstProject\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+J:\Visual Studio Online\MyFirstProject\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
